@@ -13,12 +13,12 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
-  --main-color: #FF0000;
+  --main-color: rgb(255, 100, 0);
   --hover-color: #1E63B3;
   --success-color: #43b581;
   --danger-color: #641a1a;
   --url-color: var(--main-color);
-  --background-image: transparent;
+  --background-image: url('https://i.imgur.com/SE6xQmW.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -30,7 +30,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,.9);
+  --background-overlay: rgba(0,0,0,.6);
   --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
@@ -100,5 +100,4 @@
 }
 
 /* Any custom CSS below here */
-
 
